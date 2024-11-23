@@ -1,5 +1,5 @@
 
-def find_common_participants(x, y, z=","):
+def find_common_participants(x, y, z="|"):
     list1 = x.split(z)
     list2 = y.split(z)
 
